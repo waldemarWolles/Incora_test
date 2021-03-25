@@ -1,31 +1,29 @@
 {
   "files": {
-    "static/js/0.cb939caf.chunk.js": "/Incora_test/static/js/0.cb939caf.chunk.js",
-    "static/js/0.cb939caf.chunk.js.map": "/Incora_test/static/js/0.cb939caf.chunk.js.map",
+    "static/js/0.a4c7ece0.chunk.js": "/Incora_test/static/js/0.a4c7ece0.chunk.js",
+    "static/js/0.a4c7ece0.chunk.js.map": "/Incora_test/static/js/0.a4c7ece0.chunk.js.map",
     "main.css": "/Incora_test/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Incora_test/static/js/main.ab102120.chunk.js",
-    "main.js.map": "/Incora_test/static/js/main.ab102120.chunk.js.map",
-    "runtime-main.js": "/Incora_test/static/js/runtime-main.ae361b15.js",
-    "runtime-main.js.map": "/Incora_test/static/js/runtime-main.ae361b15.js.map",
+    "main.js": "/Incora_test/static/js/main.5592c0c5.chunk.js",
+    "main.js.map": "/Incora_test/static/js/main.5592c0c5.chunk.js.map",
+    "runtime-main.js": "/Incora_test/static/js/runtime-main.fe680054.js",
+    "runtime-main.js.map": "/Incora_test/static/js/runtime-main.fe680054.js.map",
     "static/js/3.fed398e4.chunk.js": "/Incora_test/static/js/3.fed398e4.chunk.js",
     "static/js/3.fed398e4.chunk.js.map": "/Incora_test/static/js/3.fed398e4.chunk.js.map",
-    "static/js/4.e884631d.chunk.js": "/Incora_test/static/js/4.e884631d.chunk.js",
-    "static/js/4.e884631d.chunk.js.map": "/Incora_test/static/js/4.e884631d.chunk.js.map",
-    "static/js/5.5e10bf68.chunk.js": "/Incora_test/static/js/5.5e10bf68.chunk.js",
-    "static/js/5.5e10bf68.chunk.js.map": "/Incora_test/static/js/5.5e10bf68.chunk.js.map",
-    "static/js/6.49a325bd.chunk.js": "/Incora_test/static/js/6.49a325bd.chunk.js",
-    "static/js/6.49a325bd.chunk.js.map": "/Incora_test/static/js/6.49a325bd.chunk.js.map",
-    "static/js/7.82a19908.chunk.js": "/Incora_test/static/js/7.82a19908.chunk.js",
-    "static/js/7.82a19908.chunk.js.map": "/Incora_test/static/js/7.82a19908.chunk.js.map",
+    "static/js/4.e4613237.chunk.js": "/Incora_test/static/js/4.e4613237.chunk.js",
+    "static/js/4.e4613237.chunk.js.map": "/Incora_test/static/js/4.e4613237.chunk.js.map",
+    "static/js/5.ced019da.chunk.js": "/Incora_test/static/js/5.ced019da.chunk.js",
+    "static/js/5.ced019da.chunk.js.map": "/Incora_test/static/js/5.ced019da.chunk.js.map",
+    "static/js/6.c2c25176.chunk.js": "/Incora_test/static/js/6.c2c25176.chunk.js",
+    "static/js/6.c2c25176.chunk.js.map": "/Incora_test/static/js/6.c2c25176.chunk.js.map",
     "index.html": "/Incora_test/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/Incora_test/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/0.cb939caf.chunk.js.LICENSE.txt": "/Incora_test/static/js/0.cb939caf.chunk.js.LICENSE.txt",
+    "static/js/0.a4c7ece0.chunk.js.LICENSE.txt": "/Incora_test/static/js/0.a4c7ece0.chunk.js.LICENSE.txt",
     "static/js/3.fed398e4.chunk.js.LICENSE.txt": "/Incora_test/static/js/3.fed398e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae361b15.js",
+    "static/js/runtime-main.fe680054.js",
     "static/js/3.fed398e4.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.ab102120.chunk.js"
+    "static/js/main.5592c0c5.chunk.js"
   ]
 }
